@@ -7,12 +7,32 @@ jQuery Selectors được sử dụng để chọn và thao tác các phần t�
     - thao tác với các phần tử theo thuộc tính class
 - 02-element.html: 
     - thao tác với các phần tử theo thẻ
-- 03-id.html: thao tác với các phần tử theo thuộc tính id
+- 03-id.html: 
+    - thao tác với các phần tử theo thuộc tính id
 #### 02-hierarchy
 - 01-parent-child.html
+    - thao tác với phần tử con
 - 02-ancestor.html
+    - thao tác với phần tử con
+- 03-prev.html
+    - thao tác với phần tử trước + kế tiếp
+- 04-sibling.html
+    - thao tác với phần tử ngang cấp
 #### 04-content-filters
+- 01-contains.html
+    - thao tác với phần tử chứa nội dung nào đó
+- 02-empty.html
+    - thao tác với phần tử rỗng
+- 03-has.html
+    - thao tác với phần tử có selector nào đó
+- 04-parent.html
+    - thao tác với phần tử là cha
 #### 05-visibility-filters
+- 01-show-hide.html
+    - ẩn hiện phần tử
+- 02-visible-hidden.html
+    - thao tác với phần tử đang bị ẩn hoặc đang hiện
 #### 06-attribute
+
 #### 07-child-filters
 #### 08-form

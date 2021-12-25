@@ -5,7 +5,8 @@ jQuery Selectors được sử dụng để chọn và thao tác các phần t�
 #### 01-basic
 - 01-class.html: 
 thao tác với các phần tử theo thuộc tính class
-- 02-element.html: thao tác với các phần tử theo thẻ
+- 02-element.html: 
+thao tác với các phần tử theo thẻ
 - 03-id.html: thao tác với các phần tử theo thuộc tính id
 #### 02-hierarchy
 - 01-parent-child.html

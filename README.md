@@ -33,6 +33,11 @@ jQuery Selectors được sử dụng để chọn và thao tác các phần t�
 - 02-visible-hidden.html
     - thao tác với phần tử đang bị ẩn hoặc đang hiện
 #### 06-attribute
-
+- 001.html
+    - thao tác với phần tử có thuộc tính và thuộc tính đó có giá trị là gì đó
+    - Giá trị thuộc tính phải đứng đầu
+- 002.html
+    - thao tác với phần tử có thuộc tính và thuộc tính đó có giá trị là gì đó
+    - Giá trị thuộc tính có thể nằm bất cứ đâu
 #### 07-child-filters
 #### 08-form

@@ -39,5 +39,8 @@ jQuery Selectors được sử dụng để chọn và thao tác các phần t�
 - 002.html
     - thao tác với phần tử có thuộc tính và thuộc tính đó có giá trị là gì đó
     - Giá trị thuộc tính có thể nằm bất cứ đâu
+- 003.html
+    - thao tác với phần tử có thuộc tính và thuộc tính đó có giá trị là gì đó
+    - Giá trị thuộc tính có thể nằm ở bất kỳ nơi đâu nhưng phải cách các giá trị khác bằng một khoảng trắng
 #### 07-child-filters
 #### 08-form
